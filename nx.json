@@ -3,6 +3,7 @@
   "affected": {
     "defaultBase": "master"
   },
+  "cacheDirectory": ".cache/nx",
   "targetDefaults": {
     "build": {
       "cache": true,
